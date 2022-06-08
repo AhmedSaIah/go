@@ -1,6 +1,3 @@
-CURRENT_DIR := $(PWD)
-VERSION := $(shell git describe --exact-match --tags 2> /dev/null || git rev-parse --short HEAD)
-
 postgres:
 	@docker run --name postgres-14 -p 5000:5000 -e POSTGRES_USER=root -e POSTGRES_PASSWORD=01000 -d postgres:14-alpine
 
