@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World!")
 	array := []int{1, 9, 4, 1, 3}
 	fmt.Println(MergeSort(array))
 }

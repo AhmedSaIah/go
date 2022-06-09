@@ -7,6 +7,5 @@ createDB:
 dropDB:
 	@docker exec -it postgres-14 dropdb bank
 
-.PHONY: format
 format:
 	@npm run format:prettier
