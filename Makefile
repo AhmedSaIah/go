@@ -6,7 +6,10 @@ createDB:
 
 dropDB:
 	@docker exec -it postgres-14 dropdb bank
+<<<<<<< Updated upstream
 
 .PHONY: format
 format:
 	@npm run format:prettier
+=======
+>>>>>>> Stashed changes
