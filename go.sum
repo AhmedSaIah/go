@@ -1,2 +1,4 @@
 github.com/gophercises/urlshort v0.0.0-20190723121003-cc800dbaf411 h1:jXluXk94Xa6OHiVJFuYsJFrCvcc87iAdOQMy6BCkQiw=
 github.com/gophercises/urlshort v0.0.0-20190723121003-cc800dbaf411/go.mod h1:uSADXLeo9rvYEF7fbNcZ9/84Tk8j3gggJ/ha5iO21MI=
+github.com/lib/pq v1.10.6 h1:jbk+ZieJ0D7EVGJYpL9QTz7/YW6UHbmdnZWYyK5cdBs=
+github.com/lib/pq v1.10.6/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
